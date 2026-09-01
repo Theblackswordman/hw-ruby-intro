@@ -3,8 +3,9 @@
 # Part 1
 
 def sum(arr)
-  # YOUR CODE HERE
+  array.sum
 end
+
 
 def max_2_sum(arr)
   # YOUR CODE HERE
